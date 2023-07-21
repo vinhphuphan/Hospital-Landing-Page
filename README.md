@@ -18,5 +18,8 @@ This repository contains the source code for a responsive and modern Hospital La
 - Sass 
 - JavaScript
 ### Screentshot 📸
-<img src="https://user-images.githubusercontent.com/105128267/218077675-f50ac9ae-8d2c-4196-aed8-f4490e142960.png" style="max-width: 100%">
+<img src="https://raw.githubusercontent.com/vinhphuphan/Hospital-Landing-Page/main/assets/myhospitalweb.z8.web.core.windows.net_.png" style="max-width: 100%">
+
+### Related Projects:question: 👨‍💻 🛰️
+<code>[Frontendmentor-Challenge-HTML-CSS](https://github.com/vinhphuphan/Frontendmentor-Challenge-HTML-CSS)</code> 📊
 
