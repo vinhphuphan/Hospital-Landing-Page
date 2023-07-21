@@ -1,0 +1,40 @@
+.swiper {
+    width: $container-lg;
+
+    .swiper-wrapper{
+        margin-bottom: 2.5rem;
+
+        .swiper-slide{
+            @include gradientBackground;
+            padding : 1.5rem 2rem;
+            border-radius: 1rem;
+            cursor: default;
+            font-size: 0.9rem;
+
+            p {
+                margin-bottom: 1.5rem;
+            }
+
+            .patient {
+                display: flex;
+                align-items: center;
+                gap: 1rem;
+
+                .patient__avatar{
+                    width: 2.5rem;
+                    aspect-ratio: 1/1;
+                    border-radius: 50%;
+                    overflow: hidden;
+                }
+            }
+        }
+    }
+
+    .swiper-pagination{
+        position: relative;
+    }
+
+    .swiper-pagination-bullet{
+        background: $primary-color;
+    }
+}
