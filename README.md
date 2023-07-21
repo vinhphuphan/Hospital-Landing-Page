@@ -23,3 +23,4 @@ This repository contains the source code for a responsive and modern Hospital La
 ### Related Projects:question: 👨‍💻 🛰️
 <code>[Frontendmentor-Challenge-HTML-CSS](https://github.com/vinhphuphan/Frontendmentor-Challenge-HTML-CSS)</code> 📊
 
+**Have fun building!** 🚀
