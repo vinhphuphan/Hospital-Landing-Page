@@ -3,7 +3,7 @@
 This repository contains the source code for a responsive and modern Hospital Landing Page. The landing page is designed to showcase the hospital's services, specialists, testimonials, and allow users to make appointments easily. It is built using HTML, CSS, and JavaScript, making it lightweight and user-friendly.
   
 ### Links
-👉 Live Site URL: [Hospital Landing Page](https://myhospitalweb.z8.web.core.windows.net/)
+👉 Live Site URL: [Hospital Landing Page](https://hospitalweb.z8.web.core.windows.net/)
 
 ### Features
 - Responsive Design
