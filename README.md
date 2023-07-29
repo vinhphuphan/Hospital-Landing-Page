@@ -21,6 +21,8 @@ This repository contains the source code for a responsive and modern Hospital La
 <img src="https://raw.githubusercontent.com/vinhphuphan/Hospital-Landing-Page/main/assets/myhospitalweb.z8.web.core.windows.net_.png" style="max-width: 100%">
 
 ### Related Projects:question: 👨‍💻 🛰️
-<code>[Frontendmentor-Challenge-HTML-CSS](https://github.com/vinhphuphan/Frontendmentor-Challenge-HTML-CSS)</code> 📊
+<code>[Frontendmentor Challenge HTML CSS](https://github.com/vinhphuphan/Frontendmentor-Challenge-HTML-CSS)</code> 📊
+
+<code>[LaslesVPN Landing Page](https://github.com/vinhphuphan/Lasles-VPN-Landing-Page/)</code> 📊
 
 **Have fun building!** 🚀
