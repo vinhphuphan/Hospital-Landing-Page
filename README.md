@@ -25,4 +25,15 @@ This repository contains the source code for a responsive and modern Hospital La
 
 <code>[LaslesVPN Landing Page](https://github.com/vinhphuphan/Lasles-VPN-Landing-Page/)</code> 📊
 
+<code>[Olympic-Weightlifting-Data-Analysis](https://github.com/vinhphuphan/Olympic-Weightlifting-Data-Analysis)</code> 📊
+
+<code>[Titanic - Machine Learning from Disaster using Python](https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster)</code> 📊
+
+<code>[Text Classification With Movie Reviews](https://github.com/vinhphuphan/Text-Classification-With-Movie-Reviews/)</code> 📊
+
+<code>[Living Species Image Classification using Python](https://github.com/vinhphuphan/Living-Species-Image-Classification)</code> 📊
+
+<code>[Name Entity Recognition](https://github.com/vinhphuphan/Name-Entity-Recognition)</code> 📊
+
+<code>[Tweet Analysis](https://github.com/vinhphuphan/Tweets-Analysis)<code> 📊
 **Have fun building!** 🚀
