@@ -20,15 +20,19 @@ This repository contains the source code for a responsive and modern Hospital La
 ### Screentshot 📸
 <img src="https://raw.githubusercontent.com/vinhphuphan/Hospital-Landing-Page/main/assets/myhospitalweb.z8.web.core.windows.net_.png" style="max-width: 100%">
 
-### Related Projects:question: 👨‍💻 🛰️
+## Related Projects:question: 👨‍💻 🛰️
 
-<code>[Frontendmentor Challenge HTML CSS](https://github.com/vinhphuphan/Frontendmentor-Challenge-HTML-CSS)</code> 📊
+**Data Analysis**
 
-<code>[LaslesVPN Landing Page](https://github.com/vinhphuphan/Lasles-VPN-Landing-Page/)</code> 📊
+<code>[Olympic-Weightlifting-Data-Analysis Using R](https://github.com/vinhphuphan/Olympic-Weightlifting-Data-Analysis)</code> 📊
 
-<code>[Olympic-Weightlifting-Data-Analysis](https://github.com/vinhphuphan/Olympic-Weightlifting-Data-Analysis)</code> 📊
+<code>[Australia Road Deaths Statistic Report Using Excel](https://github.com/vinhphuphan/Australia-Road-Deaths-Statistic)</code> 📊
 
 <code>[Titanic - Machine Learning from Disaster using Python](https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster)</code> 📊
+
+<code>[Australian Politicians Twitter Data Analysis Using Python](https://github.com/vinhphuphan/Tweets-Analysis)</code> 📊
+
+**Data Science Applications**
 
 <code>[Text Classification With Movie Reviews](https://github.com/vinhphuphan/Text-Classification-With-Movie-Reviews/)</code> 📊
 
@@ -36,6 +40,12 @@ This repository contains the source code for a responsive and modern Hospital La
 
 <code>[Name Entity Recognition](https://github.com/vinhphuphan/Name-Entity-Recognition)</code> 📊
 
-<code>[Tweet Analysis](https://github.com/vinhphuphan/Tweets-Analysis)</code> 📊
+**Website Front End Practice**
+
+<code>[Hospital-Landing-Page](https://github.com/vinhphuphan/Hospital-Landing-Page/)</code> 📊
+
+<code>[LaslesVPN Landing Page](https://github.com/vinhphuphan/Lasles-VPN-Landing-Page)</code> 📊
+
+<code>[Frontend Mentor Challenge Submission Using HTML&CSS](https://github.com/vinhphuphan/Frontendmentor-Challenge-HTML-CSS)</code> 📊
 
 **Have fun building!** 🚀
