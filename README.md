@@ -1,4 +1,5 @@
-# Hospital Landing Page Using HTML, CSS and JavaScript [![](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+# Hospital Landing Page
+[![](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 ### Overview
 This repository contains the source code for a responsive and modern Hospital Landing Page. The landing page is designed to showcase the hospital's services, specialists, testimonials, and allow users to make appointments easily. It is built using HTML, CSS, and JavaScript, making it lightweight and user-friendly.
   
